@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      cadencea8
+HostName                       cadencea8
+ProcessIdentifier              390650
+ProcessCreationTime_UTC        1777303051
+ProcessCreationTime_Readable   Mon Apr 27 20:47:31 2026 IST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/cadencea8/VLSI_Arch_NG/Proposed_ff/layout/layout.oa.cdslck
+TimeEditLocked                 Mon Apr 27 21:32:22 2026 IST
