@@ -221,12 +221,12 @@ All four variants have been designed, sized, and verified in Cadence Virtuoso.
 
 | Name | Roll Number |
 |:---|:---|
+| Siddhant Gunwant Deore | IMT2023539 |
 | Ramkushal B | IMT2023601 |
 | Hrushikesh Rahul Sawant | IMT2023619 |
 | Satyam Sachin Ambi | IMT2023623 |
 | Pratham Arun Shetty | IMT2023534 |
 | Akshat Mittal | IMT2023606 |
-| Siddhant Gunwant Deore | IMT2023539 |
 
 ---
 
