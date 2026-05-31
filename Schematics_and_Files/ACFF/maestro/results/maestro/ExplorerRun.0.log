@@ -1,0 +1,15 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Mon Apr 27 21:07:06 2026 
+Best design point: 1
+Design specs: 
+	VLSI_Arch_NG_ACFF_1	corner	Nominal - 
+	Power		-11.24u
+	Delay		Error	No
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Mon Apr 27 21:07:11 2026 

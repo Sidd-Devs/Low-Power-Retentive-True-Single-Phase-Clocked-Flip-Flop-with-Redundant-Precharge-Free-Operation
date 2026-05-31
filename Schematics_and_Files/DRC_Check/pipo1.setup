@@ -1,0 +1,17 @@
+case	"preserve"
+convertDot	"node"
+convertPin	"geometry"
+hierDepth	32
+labelCase	"preserve"
+labelDepth	32
+library	"VLSI_Arch_NG"
+logFile	"/home/cadencea8/VLSI_Arch_NG/DRC_Check/PIPO1.LOG"
+maxVertices	2048
+pinAttNum	0
+runDir	"/home/cadencea8/VLSI_Arch_NG/DRC_Check"
+strmFile	"/home/cadencea8/VLSI_Arch_NG/DRC_Check/Proposed_ff.gds"
+strmVersion	5
+techLib	"gpdk045"
+topCell	"Proposed_ff"
+view	"layout"
+enableColoring

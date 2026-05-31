@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Mon Apr 27 19:28:59 2026 
+Best design point: 1
+Design specs: 
+	VLSI_Arch_NG_SPC-18T_FF_1	corner	Nominal - 
+	Power		-83.54n
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Mon Apr 27 19:29:04 2026 

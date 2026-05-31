@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Mon Apr 27 20:52:13 2026 
+Best design point: 1
+Design specs: 
+	VLSI_Arch_NG_S2_CFF_1	corner	Nominal - 
+	Power		-126.6n
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Mon Apr 27 20:52:17 2026 
